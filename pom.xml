@@ -9,9 +9,6 @@
 	<developers>
 		<developer>
 			<name>Arun</name>
-			<roles>
-				<role>SDET</role>
-			</roles>
 			<organization>Google</organization>
 		</developer>
 	</developers>
