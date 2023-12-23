@@ -6,6 +6,7 @@
 	<artifactId>Maven-Selenium-E2E-TestFramework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<!-- testcomment -->
+	<!-- test code added -->
 	<developers>
 		<developer>
 			<name>Arun</name>
